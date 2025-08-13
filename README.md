@@ -163,16 +163,16 @@ This guide provides all the steps needed to replicate this project.
 
 **1. Successful `terraform init`**
 *Shows the successful initialization of the Terraform backend and provider plugins.*
-`![Terraform Init](images/Terraform%20init.png)`
+`![Terraform Init](Terraform%20init.png)`
 
 **2. Successful `terraform plan`**
 *The end of the plan output, confirming that 9 resources were planned for creation.*
-`![Terraform Plan](images/Terraform%20plan.png)`
+`![Terraform Plan](Terraform%20plan.png)`
 
 **3. Successful `terraform apply`**
 *The end of the apply output, confirming that all 9 resources were successfully added.*
-`![Terraform Apply](images/Apply%20Output.png)`
+`![Terraform Apply](Apply%20Output.png)`
 
 **4. Final Resources in Azure Portal**
 *A screenshot of the `Automated-SecuredAppRG` resource group in the Azure Portal, showing all the resources created by Terraform.*
-`![Azure Portal Resources](images/Azure%20Portal%20Resources.png)`
+`![Azure Portal Resources](Azure%20Portal%20Resources.png)`
